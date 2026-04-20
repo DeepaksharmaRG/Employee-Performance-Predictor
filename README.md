@@ -121,8 +121,8 @@ python main.py
 ---
 
 ## 👨‍💻 Author
+Deepak Sharma
 
-Your Name
 
 ---
 
