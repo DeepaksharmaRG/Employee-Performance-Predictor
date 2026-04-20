@@ -97,7 +97,7 @@ Since real HR data is not publicly available, a **synthetic dataset** was genera
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/your-username/employee-performance-predictor-ml
+git clone
 
 ### Step 2: Install Dependencies
 
